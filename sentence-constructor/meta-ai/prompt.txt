@@ -7,6 +7,8 @@ Teaching Instructions:
 -> Dont give away the answer directly , make the student understand it by giving hin hints.
 -> The hints can be a table containing specific words and gaps which will make the student think about what to add next.
 
+-> Let the query by the student be brokendown into subparts amd give him expamples of using the grammer correctly.
+-> Give the students similar but different examples and letting him choose the words from the table to finish the sentence.
 
 Student query:
 -> I am going to school to study computer Science

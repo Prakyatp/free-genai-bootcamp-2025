@@ -17,7 +17,7 @@ Level of Language - Beginner level
 -> If there are more than one way the sentence can be formed, provide with multiple sentence structure.
 
 Student query:
--> I am going to school to study computer Science
+-> I love eating fruits after waking up.
 
 
 ## Examples

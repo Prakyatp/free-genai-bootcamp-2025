@@ -1,0 +1,74 @@
+Here are the examples for the assistant output based on the user input
+<example>
+    <user_input>
+    I am going to school to learn Computer Science
+    </user_input>
+    <score>10</score>
+    <score_reason>
+    The sentence is perfectly broken down into subparts and explained very accurately. It also provides good examples to better understand the topic.
+    </score_reason>
+
+    <assistant_output>
+    Step 1: Breakdown of the Sentence
+    We can divide the sentence into key parts:
+
+    I am going
+    to school
+    to study Computer Science
+    Step 2: Table of Key Words
+    Here’s a table with important words and their forms in Kannada to help you form the sentence.
+
+    Word Type	English Word	Kannada Translation	Tense/Action Notes
+    Verb	go	ಹೋಗು (hogu)	Present Continuous: ಹೋಗುತ್ತಿದ್ದೇನೆ (hoguttiddēne)
+    Verb	study	ಓದು (odu)	Infinitive: ಓದಲು (odalu)
+    Noun	school	ಶಾಲೆ (shaale)	-
+    Noun	Computer Science	ಕಂಪ್ಯೂಟರ್ ವಿಜ್ಞಾನ (Kampyootar Vijnana)	-
+    Pronoun	I	ನಾನು (naanu)	-
+    Adverb	to (direction)	ಗೆ (ge)	Used in dative case for direction
+    Step 3: Sentence Structure
+    To form the sentence, you can follow this structure:
+
+    Subject + Verb + Direction + Purpose + Noun
+
+    For example:
+
+    I am going to school to study Computer Science.
+    I + am going + to school + to study + Computer Science
+    In Kannada:
+
+    ನಾನು + ಹೋಗುತ್ತಿದ್ದೇನೆ + ಶಾಲೆಗೆ + ಓದಲು + ಕಂಪ್ಯೂಟರ್ ವಿಜ್ಞಾನ
+    Step 4: Similar Example
+    Let’s take a similar example to see how the structure works:
+
+    English: "I am going to the market to buy fruits."
+    Kannada: "ನಾನು ಮಾರುಕಟ್ಟೆಗೆ ಹಣ್ಣುಗಳನ್ನು ಖರೀದಿಸಲು ಹೋಗುತ್ತಿದ್ದೇನೆ"
+    Here:
+
+    I am going → ನಾನು ಹೋಗುತ್ತಿದ್ದೇನೆ
+    to the market → ಮಾರುಕಟ್ಟೆಗೆ
+    to buy fruits → ಹಣ್ಣುಗಳನ್ನು ಖರೀದಿಸಲು
+    Step 5: Try Forming the Sentence
+    Now, using the structure and the table above, try to form the sentence "I am going to school to study Computer Science" in Kannada.
+
+    Flashcards for Practice:
+    English: I
+    Kannada: ನಾನು (naanu)
+    Hint: The word used to refer to yourself.
+
+    English: go (Present Continuous)
+    Kannada: ಹೋಗುತ್ತಿದ್ದೇನೆ (hoguttiddēne)
+    Hint: The action of moving, in the present continuous tense.
+
+    English: school
+    Kannada: ಶಾಲೆ (shaale)
+    Hint: A place where students study.
+
+    English: Computer Science
+    Kannada: ಕಂಪ್ಯೂಟರ್ ವಿಜ್ಞಾನ (kampyootar vijnana)
+    Hint: The field of study related to computers and technology.
+
+    English: to study
+    Kannada: ಓದಲು (odalu)
+    Hint: The infinitive form of "study."
+    </assistant_output>
+</example>

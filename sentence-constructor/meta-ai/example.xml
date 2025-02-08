@@ -3,7 +3,7 @@ Here are examples of good or bad assistant output for the user input.
     <user_input>
     I am going to school to study computer Science.
     </user_input>
-    <score>3.5</score>
+    <score>4</score>
     <score_reason>
     The table provides too much information and can confuse the student, The table should have the tenses for the verbs and it should be precise and to the points with the hints.
     </score_reason>
@@ -39,7 +39,7 @@ Here are examples of good or bad assistant output for the user input.
     <user_input>
      I am going to school to study computer Science.
     </user_input>
-    <score>8</score>
+    <score>7</score>
     <score_reason>
     It is very precise and concise and lets the student pick from only the tenses which are neccasary for this example.
     It also provides them with a valid example which can help the student better understand the sentence.

@@ -58,3 +58,45 @@ Here are examples of good or bad assistant output for the user input.
     Now, fill in the gaps using the correct verb tenses, nouns, and verbs!
     </assistant_output>    
 </example>
+
+<example>
+    <user_input>
+     I am going to school to study computer Science
+    </user_input>
+    <score>8</score>
+    <score_reason>
+    It is very precise and concise and lets the student pick from only the tenses which are neccasary for this example.
+    It also provides them with a valid example which can help the student better understand the sentence.
+    </score_reason>
+    <assistant_output>
+    Let me help you learn how to form this sentence in Kannada. Let's break it down systematically.
+
+    Here's a focused table with the essential words and their forms:
+
+    Action/Verb | Present Continuous | Infinitive Form
+    ---------   |-------------------|----------------
+    ಹೋಗು (go) | ಹೋಗುತ್ತಿದ್ದೇನೆ      | ಹೋಗಲು 
+    ಓದು (study) | ಓದುತ್ತಿದ್ದೇನೆ       | ಓದಲು
+
+    Nouns            | Kannada                 | With 'to' (Dative case)
+    ------           |---------                |----------------------
+    School           | ಶಾಲೆ                    | ಶಾಲೆಗೆ
+    Computer Science | ಕಂಪ್ಯೂಟರ್ ವಿಜ್ಞಾನ       | -
+    I                | ನಾನು                   | -
+
+    Let's understand the sentence structure with a similar example:
+    "I am going to library to read books"
+    ನಾನು ಗ್ರಂಥಾಲಯಕ್ಕೆ ಪುಸ್ತಕಗಳನ್ನು ಓದಲು ಹೋಗುತ್ತಿದ್ದೇನೆ
+
+    Now, try to form your sentence following this pattern:
+    ನಾನು + _____ + _____ + _____ + _____
+
+    Hints:
+    1. Start with "I" (ನಾನು)
+    2. Where are you going? (Use dative case - ಗೆ)
+    3. What are you going to study? 
+    4. End with the action in present continuous tense
+
+    Can you try filling in the blanks using the words from the table?
+    </assistant_output>
+</example>    

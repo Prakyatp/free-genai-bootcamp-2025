@@ -1,0 +1,61 @@
+{
+  "groups": [
+    {
+      "name": "Basic Words"
+    },
+    {
+      "name": "Common Phrases"
+    },
+    {
+      "name": "Numbers"
+    },
+    {
+      "name": "Family Members"
+    },
+    {
+      "name": "Food Items"
+    }
+  ],
+  "words": [
+    {
+      "kannada_word": "ನಮಸ್ಕಾರ",
+      "english_word": "Hello",
+      "parts": {
+        "type": "greeting"
+      },
+      "groups": ["Basic Words", "Common Phrases"]
+    },
+    {
+      "kannada_word": "ಧನ್ಯವಾದ",
+      "english_word": "Thank you",
+      "parts": {
+        "type": "courtesy"
+      },
+      "groups": ["Basic Words", "Common Phrases"]
+    },
+    {
+      "kannada_word": "ಒಂದು",
+      "english_word": "One",
+      "parts": {
+        "type": "number"
+      },
+      "groups": ["Numbers"]
+    },
+    {
+      "kannada_word": "ಅಮ್ಮ",
+      "english_word": "Mother",
+      "parts": {
+        "type": "relation"
+      },
+      "groups": ["Family Members"]
+    },
+    {
+      "kannada_word": "ಅನ್ನ",
+      "english_word": "Rice",
+      "parts": {
+        "type": "food"
+      },
+      "groups": ["Food Items"]
+    }
+  ]
+} 

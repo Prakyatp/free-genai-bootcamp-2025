@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="dashboard-container">
+    <h2>Your Progress</h2>
+    
+    <div class="word-lists">
+        <div class="known-words">
+            <h3>Known Words</h3>
+            <ul>
+                {% for word in known_words %}
+                <li>{{ word.kannada_word }} - {{ word.english_meaning }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+        
+        <div class="unknown-words">
+            <h3>Words to Practice</h3>
+            <ul>
+                {% for word in unknown_words %}
+                <li>{{ word.kannada_word }} - {{ word.english_meaning }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>
+{% endblock %} 

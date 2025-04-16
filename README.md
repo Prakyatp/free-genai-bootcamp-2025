@@ -1,1 +1,1 @@
-# Free-genai-bootcamp-2025
+# Kannada Tutor Apps using GenAI Tools
